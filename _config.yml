@@ -14,7 +14,7 @@ title: Flion's home
 
 # Your name to show in the footer
 author: Flion
-favicon: "/assets/img/猫猫头像.jpg"
+favicon: "assets/img/网页图标猫.png"
 
 ###############################################
 # --- List of links in the navigation bar --- #
@@ -33,7 +33,7 @@ navbar-links:
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "assets/img/网页图标猫.png"
+avatar: "assets/img/猫猫头像.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
